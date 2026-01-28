@@ -1,7 +1,7 @@
 <h1 align="center">Hey, I'm Joe 👋</h1>
 
 <p align="center">
-  💻 Programmer | 🌐 Web Designer | 🛡️ Cybersecurity & AI Student <br>
+  💻 Programmer | 🌐 Web Developer | 🛡️ Cybersecurity & AI Student <br>
   🔥 Turning code into creations & learning like a beast
 </p>
 
@@ -10,9 +10,9 @@
 ## 🚀 About Me
 
 - 🎓 Studying Cybersecurity & AI — breaking things to learn how they work
-- 🛠️ Currently working on classical encryption ciphers and AI classifiers
+- 🛠️ Currently working on encryption ciphers and AI classifiers
 - 🤖 Learning fuzzy logic, decision trees, and hill-climbing optimization
-- 🎮 Sometimes building games like Connect Four just for the fun of it
+- 🎮 Sometimes building games just for the fun of it
 
 ---
 
@@ -48,5 +48,5 @@
 
 ### 🧠 Fun Fact
 
-> I don't just code to pass the time—I code like I’m building the future.
+> I don't just code to pass the time, I code like I’m building the future.
 
