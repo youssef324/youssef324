@@ -1,32 +1,49 @@
 <h1 align="center">Hey, I'm Joe 👋</h1>
 
 <p align="center">
-  💻 Programmer | 🌐 Web Developer | 🛡️ Cybersecurity & AI Student <br>
-  🔥 Turning code into creations & learning like a beast
+  💻 Full-Stack Developer | 🌐 Web Engineer | 🛡️ Cybersecurity & AI Student <br>
+  Building real products, breaking systems to understand them, and shipping clean code.
 </p>
 
 ---
 
 ## 🚀 About Me
 
-- 🎓 Studying Cybersecurity & AI — breaking things to learn how they work
-- 🛠️ Currently working on encryption ciphers and AI classifiers
-- 🤖 Learning fuzzy logic, decision trees, and hill-climbing optimization
-- 🎮 Sometimes building games just for the fun of it
+- 🎓 Cybersecurity & AI student with a strong backend mindset
+- 🧠 Interested in **system design, security, and data-driven applications**
+- 🛠️ Worked on encryption systems, AI classifiers, and full-stack web projects
+- 🤖 Exploring fuzzy logic, decision trees, and optimization techniques
+- 🎯 Currently focused on delivering **production-ready web applications**
+
+I care about **architecture, data integrity, and scalability**, not just making things “work”.
 
 ---
 
 ## 🧰 Tech Stack
 
+### Languages
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat-square&logo=php&logoColor=white)
+
+### Web & Databases
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![SQLite](https://img.shields.io/badge/-SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white)
+
+### Tools & Environment
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+
+---
+
+## 📌 What I’m Working On
+
+- 🔐 Classical encryption & decryption systems
+- 🌐 Full-stack web applications (Firebase-based)
+- 🤖 AI classification models with preprocessing & optimization
+- 🧪 Learning how to move projects from **local → production**
 
 ---
 
@@ -41,12 +58,10 @@
 
 ## 🔗 Connect With Me
 
-- 📧 Email: [youssefjoea12@gmail.com](mailto:youssefjoeayman3@gmail.com)
-
+- 📧 Email: [youssefjoeayman3@gmail.com](mailto:youssefjoeayman3@gmail.com)
 
 ---
 
-### 🧠 Fun Fact
+### 🧠 Philosophy
 
-> I don't just code to pass the time, I code like I’m building the future.
-
+> I don’t code to stay busy — I code to understand systems, solve problems, and build things that last.
