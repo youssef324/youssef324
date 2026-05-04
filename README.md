@@ -48,6 +48,9 @@
 - 🧪 Moving projects from **local → production**
 
 ---
+##Performance
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=youssef324&show_icons=true&theme=tokyonight&hide_border=true" /> <img src="https://streak-stats.demolab.com/?user=youssef324&theme=tokyonight&hide_border=true" /> </p>
+---
 
 ## 📈 GitHub Stats
 
@@ -59,11 +62,13 @@
 ---
 
 ## 🔗 Connect With Me
+<p align="center"> <a href="YOUR_LINKEDIN"> <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin" /> </a> <a href="mailto:YOUR_EMAIL"> <img src="https://img.shields.io/badge/-Email-black?style=flat&logo=gmail" /> </a> </p>
 
+<p align="center"> <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" /> </p>
 - 📧 Email: [youssefjoeayman3@gmail.com](mailto:youssefjoeayman3@gmail.com)
 
 ---
 
 ### 🧠 Philosophy
 
-> I don’t code to stay busy — I code to understand systems, solve problems, and build things that last.
+<p align="center"> ⚡ “Code is easy. Building something that matters is the real game.” </p>
