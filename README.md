@@ -1,4 +1,4 @@
-<h1 align="center">Joseph⚡</h1>
+<h1 align="center">  JOE⚡</h1>
 <h3 align="center">AI Engineer | Cybersecurity | System Builder</h3>
 <p align="center"> <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" /> </p>
 <p align="center">
