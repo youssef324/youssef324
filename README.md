@@ -1,6 +1,6 @@
 <h1 align="center">Joseph⚡</h1>
 <h3 align="center">AI Engineer | Cybersecurity | System Builder</h3>
-
+<p align="center"> <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" /> </p>
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=25&duration=3000&color=00F7FF&center=true&vCenter=true&width=600&lines=Building+AI+Systems;Cybersecurity+Mindset;Automating+Everything;Always+Leveling+Up" />
 </p>
@@ -48,24 +48,16 @@
 - 🧪 Moving projects from **local → production**
 
 ---
-##Performance
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=youssef324&show_icons=true&theme=tokyonight&hide_border=true" /> <img src="https://streak-stats.demolab.com/?user=youssef324&theme=tokyonight&hide_border=true" /> </p>
----
-
 ## 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Youssef324&show_icons=true&theme=radical" width="48%">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Youssef324&theme=radical" width="48%">
-</p>
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=youssef324&show_icons=true&theme=tokyonight&hide_border=true" /> <img src="https://streak-stats.demolab.com/?user=youssef324&theme=tokyonight&hide_border=true" /> </p>
 
 ---
 
 ## 🔗 Connect With Me
-<p align="center"> <a href="YOUR_LINKEDIN"> <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin" /> </a> <a href="mailto:YOUR_EMAIL"> <img src="https://img.shields.io/badge/-Email-black?style=flat&logo=gmail" /> </a> </p>
+<p align="center"> <a href="mailto:youssefjoeayman3@gmail.com"> <img src="https://img.shields.io/badge/-Email-black?style=flat&logo=gmail" /> </a> </p>
 
-<p align="center"> <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" /> </p>
-- 📧 Email: [youssefjoeayman3@gmail.com](mailto:youssefjoeayman3@gmail.com)
+
+# 📧 Email: youssefjoeayman3@gmail.com
 
 ---
 
