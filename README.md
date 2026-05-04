@@ -1,23 +1,23 @@
-<h1 align="center">Hey, I'm Joe 👋</h1>
+<h1 align="center">Joseph⚡</h1>
+<h3 align="center">AI Engineer | Cybersecurity | System Builder</h3>
 
 <p align="center">
-  💻 Full-Stack Developer | 🌐 Web Engineer | 🛡️ Cybersecurity & AI Student <br>
-  Building real products, breaking systems to understand them, and shipping clean code.
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=25&duration=3000&color=00F7FF&center=true&vCenter=true&width=600&lines=Building+AI+Systems;Cybersecurity+Mindset;Automating+Everything;Always+Leveling+Up" />
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=youssef324&label=Profile+Views&color=0e75b6&style=flat" />
 </p>
 
 ---
 
-## 🚀 About Me
+## 🧠 Who Am I
 
-- 🎓 Cybersecurity & AI student with a strong backend mindset
-- 🧠 Interested in **system design, security, and data-driven applications**
-- 🛠️ Worked on **exclusive encryption & decryption systems**, AI classifiers, and full-stack web projects
-- 🤖 Exploring fuzzy logic, decision trees, and optimization techniques
-- 🎯 Currently focused on delivering **production-ready web applications**
-
-I care about **architecture, data integrity, and scalability**, not just making things “work”.
-
----
+```diff
++ I build systems, not just code
++ AI + Cybersecurity mindset
++ I care about performance, logic, and impact
+- I don’t do boring projects
 
 ## 🧰 Tech Stack
 
