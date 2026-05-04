@@ -5,10 +5,6 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=25&duration=3000&color=00F7FF&center=true&vCenter=true&width=600&lines=Building+AI+Systems;Cybersecurity+Mindset;Automating+Everything;Always+Leveling+Up" />
 </p>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=youssef324&label=Profile+Views&color=0e75b6&style=flat" />
-</p>
-
 ---
 
 ## 🧠 Who Am I
