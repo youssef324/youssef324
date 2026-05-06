@@ -14,7 +14,7 @@
 + AI + Cybersecurity mindset
 + I care about performance, logic, and impact
 - I don’t do boring projects
-
+```
 ## 🧰 Tech Stack
 
 ### Languages
