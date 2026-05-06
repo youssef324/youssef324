@@ -9,12 +9,14 @@
 
 ## 🧠 Who Am I
 <p align="center"> <img src="https://skillicons.dev/icons?i=python,java,js,sqlite,supabase,linux,git,github,vscode" /> </p>
+
 ```diff
 + I build systems, not just code
 + AI + Cybersecurity mindset
 + I care about performance, logic, and impact
 - I don’t do boring projects
 ```
+---
 ## 🧰 Tech Stack
 
 ### Languages
