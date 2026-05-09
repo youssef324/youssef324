@@ -17,6 +17,7 @@
 - I don’t do boring projects
 ```
 <p align="center"> <img src="https://skillicons.dev/icons?i=python,java,js,sqlite,supabase,linux,git,github,vscode" /> </p>
+
 ---
 ## 🧰 Tech Stack
 
