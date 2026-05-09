@@ -11,56 +11,80 @@
 
 
 ```diff
++ Student at Alexandria National University
 + I build systems, not just code
 + AI + Cybersecurity mindset
 + I care about performance, logic, and impact
 - I don’t do boring projects
 ```
-<p align="center"> <img src="https://skillicons.dev/icons?i=python,java,js,sqlite,supabase,linux,git,github,vscode" /> </p>
 
 ---
+
 ## 🧰 Tech Stack
 
-### Languages
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=white)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat-square&logo=php&logoColor=white)
+### 🌐 Languages
+<p>
+  <img src="https://skillicons.dev/icons?i=js,php,java,python&theme=dark" />
+</p>
 
-### Web, Databases & Cloud
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
-![SQLite](https://img.shields.io/badge/-SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white)
-![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
-![Cloud](https://img.shields.io/badge/-Cloud-4285F4?style=flat-square&logo=googlecloud&logoColor=white)
+### ⚡ Frameworks & Runtime
+<p>
+  <img src="https://skillicons.dev/icons?i=nextjs,nodejs&theme=dark" />
+</p>
 
-### Tools & Environment
-![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
-![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+### 🎨 Web, Database & Cloud
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,sqlite,mysql,supabase,firebase&theme=dark" />
+</p>
+
+### 🤖 AI & Cybersecurity
+<p>
+  <img src="https://skillicons.dev/icons?i=kali,linux,bash&theme=dark" />
+</p>
+
+### 🛠️ Tools & Environment
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,figma,notion&theme=dark" />
+</p>
 
 ---
 
 ## 📌 What I’m Working On
 
 - 🔐 Exclusive encryption & decryption systems
-- 🌐 Full-stack web applications (Firebase-based)
+- 🌐 Full-stack web applications 
 - 🤖 AI classification models with preprocessing & optimization
 - 🧪 Moving projects from **local → production**
 
 ---
+
 ## 📈 GitHub Stats
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=youssef324&show_icons=true&theme=tokyonight&hide_border=true" /> <img src="https://streak-stats.demolab.com/?user=youssef324&theme=tokyonight&hide_border=true" /> </p>
+
+<p align="center">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=youssef324&show_icons=true&theme=tokyonight&hide_border=true&border_radius=15" />
+  
+  <img width="49%" src="https://streak-stats.demolab.com?user=youssef324&theme=tokyonight&hide_border=true&border_radius=15" />
+</p>
 
 ---
 
 ## 🔗 Connect With Me
-<p align="center"> <a href="mailto:youssefjoeayman3@gmail.com"> <img src="https://img.shields.io/badge/-Email-black?style=flat&logo=gmail" /> </a> </p>
 
+<div align="center">
 
-# 📧 Email: youssefjoeayman3@gmail.com
+<a href="mailto:youssefjoeayman3@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-youssefjoeayman3%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+<br>
+<a href="https://github.com/youssef324">
+  <img src="https://img.shields.io/badge/GitHub-youssef324-181717?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+
+</div>
 
 ---
 
 ### 🧠 Philosophy
 
-<p align="center"> ⚡ “Code is easy. Building something that matters is the real game.” </p>
+<p align="center"> ⚡ “Code is easy. Building something that matters is the real game.” </p> <br>
+<p align="center">⚡ “Anyone can write code. Building something people actually remember? That’s the real challenge.” </p>
