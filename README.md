@@ -56,15 +56,6 @@
 - 🤖 AI classification models with preprocessing & optimization
 - 🧪 Moving projects from **local → production**
 
----
-
-## 📈 GitHub Stats
-
-<p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=youssef324&show_icons=true&theme=tokyonight&hide_border=true&border_radius=15" />
-  
-  <img width="49%" src="https://streak-stats.demolab.com?user=youssef324&theme=tokyonight&hide_border=true&border_radius=15" />
-</p>
 
 ---
 
